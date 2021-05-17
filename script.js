@@ -32,3 +32,11 @@
 //     return arr.every(item => item >= 0);
 // }
 // console.log(findNum(arrayOne)); // false
+
+// const arrayTwo = [1, 3, 8, 0];
+
+// function findNum(arr) {
+//     return arr.every(item => item >= 0);
+// }
+
+// console.log(findNum(arrayTwo)); // true
