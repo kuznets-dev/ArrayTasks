@@ -22,3 +22,13 @@
 // function findUniqueTwo(arr) {
 //     return arr.filter((item, index, arr) => arr.indexOf(item) === index);
 // }
+
+// console.log(findUniqueTwo(array));
+
+// Проверьте то, что все элементы в массиве больше нуля.
+// const arrayOne = [-1, 1, 3, 8, 0, -30, -15];
+
+// function findNum(arr) {
+//     return arr.every(item => item >= 0);
+// }
+// console.log(findNum(arrayOne)); // false
