@@ -48,3 +48,11 @@
     // return arr.filter(item => item < 0);
 // }
 // console.log(findNegative(array));
+
+// Найдите сумму этих чисел.
+// const array = [1, 2, 3, 4, 5];
+
+// function sum(arr) {
+//     return arr.reduce((accum, item) => {return accum += item});
+// }
+// console.log(sum(array));
