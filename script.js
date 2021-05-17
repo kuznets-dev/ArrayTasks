@@ -83,3 +83,12 @@
 // }
 // 
 // console.log(findNumber(str, regExp));
+
+// const str = 'abcd efasd523asf aaa123456asdf';
+// const regExp = /(?<!\d)\d{6}(?!\d)/g;
+
+// function findNumByReg(string, reg) {
+//     return string.match(reg);
+// }
+
+// console.log(findNumByReg(str, regExp));
