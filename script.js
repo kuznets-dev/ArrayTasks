@@ -40,3 +40,11 @@
 // }
 
 // console.log(findNum(arrayTwo)); // true
+
+// Оставьте в нем только отрицательные числа.
+// const array = [-1, 1, 3, 8, 0, -30, -15];
+// 
+// function findNegative(arr) {
+    // return arr.filter(item => item < 0);
+// }
+// console.log(findNegative(array));
