@@ -56,3 +56,11 @@
 //     return arr.reduce((accum, item) => {return accum += item});
 // }
 // console.log(sum(array));
+
+// Дан массив, в нем могут быть обычные элементы и подмассивы(например [1, 2, [3, 4], 5, {a: 7}]). Оставьте в нем только подмассивы.
+// const array = [1, 2, [3, 4], 5, {a: 7}];
+// 
+// function findSubArr(arr) {
+    // return arr.filter(item => Array.isArray(item));
+// }
+// console.log(findSubArr(array));
