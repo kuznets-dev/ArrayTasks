@@ -73,3 +73,13 @@
 //     return string.split(' ').filter(item => item.length > 4);
 // }
 // console.log(findLenght(str));
+
+// Если в строке имеется шестизначное число(ни больше, ни меньше) - верните его, как результат функции
+// const str = 'adad adadad fjfjfj 555 3333 666666';
+// const regExp = /\b\d{6}\b/g;
+// 
+// function findNumber(string, reg) {
+    // return string.match(reg);
+// }
+// 
+// console.log(findNumber(str, regExp));
