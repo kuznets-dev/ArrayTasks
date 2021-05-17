@@ -15,3 +15,10 @@
 //     return [...new Set(arr)];
 // }
 // console.log(findUnique(array));
+
+// filter, indexOf:
+// const array = [1, 1, 2, 3, 3, 4, 5, 5, 6];
+
+// function findUniqueTwo(arr) {
+//     return arr.filter((item, index, arr) => arr.indexOf(item) === index);
+// }
