@@ -64,3 +64,12 @@
     // return arr.filter(item => Array.isArray(item));
 // }
 // console.log(findSubArr(array));
+
+// Верните количество слов в строке, длина которых больше 4 символов.
+
+// const str = 'apple orange red blue';
+
+// function findLenght(string) {
+//     return string.split(' ').filter(item => item.length > 4);
+// }
+// console.log(findLenght(str));
